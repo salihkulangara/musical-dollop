@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: SK Wordpress Plugin
+Plugin Name: SK Wordpress Plugin Dollop
 Plugin Description: This is a test plugin for checking the Private Updates
 Plugin Author: Salih K
 Plugin URI: https://salih.me
