@@ -5,7 +5,7 @@ Plugin Name: SK Wordpress Plugin
 Plugin Description: This is a test plugin for checking the Private Updates
 Plugin Author: Salih K
 Plugin URI: https://salih.me
-Version: 1.0
+Version: 1.2
 */
 
 
@@ -267,5 +267,5 @@ class WPFDGitHubPluginUpdater {
 
 
 if ( is_admin() ) {
-    new WPFDGitHubPluginUpdater( __FILE__, 'salihkulangara', "sk-wp-plugin" );
+    new WPFDGitHubPluginUpdater( __FILE__, 'salihkulangara', "musical-dollop" );
 }
